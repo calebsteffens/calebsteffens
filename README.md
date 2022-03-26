@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Caleb-Steffens
-- 👀 I’m interested in developing a career in data analytics.
+- 👋 Hi, I’m Caleb Steffens
+- 👀 I’m interested in developing a career in data analytics
 - 🌱 I’m currently learning how to maximize Excel and learning Python
 - 🎓 I am currently getting my MBA at Northern Illinois Univeristy
 - 👋 Say hi on LinkedIn: https://www.linkedin.com/in/calebsteffens/
