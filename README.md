@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Caleb-Steffens
-- 👀 I’m interested in learning more about data science
-- 🌱 I’m currently learning how to maximize Excel and learning the Python basics
-- 💞️ I’m looking to collaborate on TBD
+- 👀 I’m interested in developing a career in data analytics.
+- 🌱 I’m currently learning how to maximize Excel and learning Python
+- 🎓 I am currently getting my MBA at Northern Illinois Univeristy
+- 👋 Say hi on LinkedIn: https://www.linkedin.com/in/calebsteffens/
+
 
 <!---
 calebsteffens/calebsteffens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
